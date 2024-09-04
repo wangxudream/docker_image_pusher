@@ -6,6 +6,7 @@ mamohr/centos-java:latest
 openjdk:8-jre-alpine
 tomcat:jdk8-openjdk-slim
 openjdk:8-jdk-alpine
+openjdk:8-jdk-slim
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
