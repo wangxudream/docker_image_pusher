@@ -8,6 +8,7 @@ tomcat:jdk8-openjdk-slim
 openjdk:8-jdk-alpine
 openjdk:8-jdk-slim
 bitnami/tomcat:10.1.30-debian-12-r0
+openjdk:8
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
