@@ -13,6 +13,7 @@ docker.io/bitnami/zookeeper:3.8.4-debian-12-r14
 docker.io/bitnami/clickhouse:24.9.2-debian-12-r1
 quay.io/k8scsi/csi-node-driver-registrar:v2.1.0
 majst01/csi-driver-s3:v0.3.4
+nginx:stable-perl
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
