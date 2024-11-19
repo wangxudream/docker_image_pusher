@@ -20,6 +20,7 @@ bitnami/mongodb:8.0.3-debian-12-r0
 python:latest
 golang:1.18
 debian:stable-slim
+bitnami/mysql:8.4.3-debian-12-r0
 #nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
