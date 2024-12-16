@@ -1,6 +1,6 @@
-mysql:5.7.8
-mysql:8.0-debian
-mysql:8.0.40-debian
+docker.io/mysql:5.7.8
+docker.io/mysql:8.0-debian
+docker.io/mysql:8.0.40-debian
 postgres:17beta2
 openjdk:11.0.16-jre-slim
 openjdk:11.0.16
