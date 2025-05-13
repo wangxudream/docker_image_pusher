@@ -20,6 +20,7 @@ nginx:stable-perl
 mongodb/mongodb-community-server:6.0.15-ubi9
 adoptopenjdk/openjdk11:jre-11.0.10_9-alpine
 bitnami/mongodb:8.0.3-debian-12-r0
+bitnami/redis:7.4.3-debian-12-r0
 #python:latest
 golang:1.18
 debian:stable-slim
